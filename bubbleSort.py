@@ -15,7 +15,6 @@ def bubbleSort(array):
     return array
 
 
-
 array2 = [8, 5, 2, 9, 5, 6, 3]
 bubbleSort(array2)
 print("done")
